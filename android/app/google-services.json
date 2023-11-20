@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "474237274381",
+    "project_id": "blearning-system-app",
+    "storage_bucket": "blearning-system-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474237274381:android:8418c94e002e255f4f4844",
+        "android_client_info": {
+          "package_name": "com.example.mylearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474237274381-3pot46raph76i7t1buvgd649ruu7dsbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvGs2bp5IkIKhCqkZyLAIUzClwUk7Y4lY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474237274381-3pot46raph76i7t1buvgd649ruu7dsbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
